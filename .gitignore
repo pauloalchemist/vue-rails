@@ -23,6 +23,7 @@ pnpm-debug.log*
 *.sw?
 
 # Rails api
+/api_rails/config/master.key
 /.bundle
 /log/*
 /tmp/*
